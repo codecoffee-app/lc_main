@@ -140,16 +140,23 @@
     "mailBox": {}
   },
     "updateAlert": {
-    "heading": "Update",
-    "subheading": "We have a new update for you. Please update the app to get the latest features and bug fixes.",
-    "showMailBox": false,
-    "mailBox": {},
-    "showList": false,
-    "list": [],
-    "showUrl": true,
-    "urlData": {
-      "url": "https://play.google.com/store/apps/details?id=com.leetos",
-      "text": "Update now"
+        "heading": "Update",
+        "subheading": "We have a new update for you. Please update the app to get the latest features and bug fixes.",
+        "showMailBox": false,
+        "mailBox": {},
+        "showList": false,
+        "list": [],
+        "showUrl": true,
+        "urlData": {
+          "url": "https://play.google.com/store/apps/details?id=com.leetos",
+          "text": "Update now"
+        }
+      },
+    "verticals": {
+        "dsa": true,
+        "systemdesign": false,
+        "react": false,
+        "leetcode": true,
+        "mongo": false
     }
-  }
 }
