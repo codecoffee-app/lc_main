@@ -102,6 +102,10 @@
         "showCarousel":false,
         "banners":[]
     },
+    "verticalCarousel":{
+        "showCarousel":false,
+        "banners":[]
+    },
     "aiCarousel":{
         "showAiCarousel":false,
         "AiBanners":[
