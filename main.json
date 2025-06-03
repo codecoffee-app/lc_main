@@ -103,8 +103,14 @@
         "banners":[]
     },
     "verticalCarousel":{
-        "showCarousel":false,
-        "banners":[]
+        "showCarousel":true,
+        "banners":[
+            {
+                "id": 1,
+                "link": "https://docs.google.com/forms/d/e/1FAIpQLScmGw3T2ePAk85Iyfum97BomVjdm3dRKSdVmWjetdm6Dbq16A/viewform?usp=header",
+                "url": "https://codecoffee-app.github.io/lc_main/unlimited-feedback-form.png"
+            }
+        ]
     },
     "aiCarousel":{
         "showAiCarousel":false,
@@ -161,6 +167,8 @@
         "systemdesign": false,
         "react": false,
         "leetcode": true,
-        "mongo": false
+        "mongo": false,
+        "css": false,
+        "javascript": false
     }
 }
