@@ -38,7 +38,8 @@
     },
     "adFrequency": 5,
     "aiAdFrequency":5,
-    "noOfMinsForAdFree": 5,
+    "editorialAdFrequency": 3,
+    "noOfMinsForAdFree": 8,
     "downTimeAlert":{
         "showDownTimeAlert":false,
         "heading":"Notice",
