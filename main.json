@@ -16,6 +16,13 @@
         "options":[],
         "url_text":""
     },
+    "feedback_alert": {
+        "heading": "Give Feedback",
+        "subheading": "Share your thoughts about the app so we can improve and better meet your needs",
+        "btnText": "Tap to participate",
+        "img": "",
+        "url": "https://docs.google.com/forms/d/e/1FAIpQLScmGw3T2ePAk85Iyfum97BomVjdm3dRKSdVmWjetdm6Dbq16A/viewform?usp=header"
+    },
     "msg":"",
     "download_url":"",
     "options":[],
