@@ -43,6 +43,7 @@
     "noOfMinsForAdFree": 8,
     "callouts" : {
         "show": true,
+        "heading": "What's new?",
         "list": [
             "You can read editorials of all problems",
             "Go through cards section to explore different varities of questions",
