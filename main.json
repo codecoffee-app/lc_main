@@ -41,6 +41,14 @@
     "aiAdFrequency":5,
     "editorialAdFrequency": 3,
     "noOfMinsForAdFree": 8,
+    "callouts" : {
+        "show": true,
+        "list": [
+            "You can read editorials of all problems",
+            "Go through cards section to explore different varities of questions",
+            "Read interview experirences to gain insights"
+        ]
+    },
     "downTimeAlert":{
         "showDownTimeAlert":false,
         "heading":"Notice",
