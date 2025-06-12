@@ -50,7 +50,7 @@
     "editorialAdFrequency": 3,
     "noOfMinsForAdFree": 8,
     "callouts" : {
-        "show": true,
+        "show": false,
         "heading": "What's new?",
         "list": [
             "You can read editorials of all problems",
