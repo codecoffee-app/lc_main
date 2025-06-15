@@ -49,6 +49,10 @@
     "aiAdFrequency":5,
     "editorialAdFrequency": 3,
     "noOfMinsForAdFree": 8,
+    "bannerAd": {
+        "navigator": true,
+        "subpage": true
+    },
     "callouts" : {
         "show": false,
         "heading": "What's new?",
