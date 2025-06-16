@@ -18,11 +18,11 @@
     },
     "feedback_alert": {
         "show": true,
-        "heading": "Give Feedback",
-        "subheading": "Share your thoughts about the app so we can improve and better meet your needs",
+        "heading": "Share App Name",
+        "subheading": "Got a knack for names? Suggest the perfect one for our app!",
         "btnText": "Tap to participate",
         "img": "https://codecoffee-app.github.io/lc_main/feedback.png",
-        "url": "https://docs.google.com/forms/d/e/1FAIpQLScmGw3T2ePAk85Iyfum97BomVjdm3dRKSdVmWjetdm6Dbq16A/viewform?usp=header"
+        "url": "https://docs.google.com/forms/d/e/1FAIpQLSebdReZzl6Kq95W_jdyZbe3wSHSjcuHKfUwgwTwEGGrXdSJbw/viewform?pli=1"
     },
     "msg":"",
     "download_url":"",
