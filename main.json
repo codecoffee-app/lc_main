@@ -4,7 +4,7 @@
     "code_editor_url":"https://react-xcode.vercel.app/leetcode/",
     "lc_data": "https://codecoffee-app.github.io/lc-data/",
     "deep_link_url": "https://www.zodeverse.com/",
-    "latest_version":53,
+    "latest_version":55,
     "mandatory": true,
     "showContest": false,
     "showNewLogin": false,
@@ -45,9 +45,9 @@
         "start": 2,
         "end": 2
     },
-    "adFrequency": 5,
-    "aiAdFrequency":5,
-    "editorialAdFrequency": 3,
+    "adFrequency": 300,
+    "aiAdFrequency":300,
+    "editorialAdFrequency": 300,
     "noOfMinsForAdFree": 8,
     "bannerAd": {
         "navigator": true,
@@ -188,7 +188,7 @@
     "verticals": {
         "dsa": true,
         "systemdesign": false,
-        "react": false,
+        "react": true,
         "leetcode": true,
         "mongo": false,
         "css": false,
