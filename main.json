@@ -48,7 +48,7 @@
     "adFrequency": 300,
     "aiAdFrequency":300,
     "editorialAdFrequency": 300,
-    "noOfMinsForAdFree": 8,
+    "noOfMinsForAdFree": 5,
     "bannerAd": {
         "navigator": true,
         "subpage": true
