@@ -2,7 +2,7 @@
     "github_url":"https://leetcode-ally.github.io/leetcode-ally-github",
     "vercel_api":"https://c-leetcode-ally-be.vercel.app",
     "code_editor_url":"https://react-xcode.vercel.app/leetcode/",
-    "lc_data": "https://codecoffee-app.github.io/lc-data/",
+    "lc_data": "https://api.zodeverse.com/",
     "deep_link_url": "https://www.zodeverse.com/",
     "latest_version":55,
     "mandatory": true,
