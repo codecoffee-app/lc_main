@@ -47,6 +47,7 @@
     },
     "adFrequency": 300,
     "aiAdFrequency":300,
+    "aiUrl":"https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash:generateContent?key=",
     "editorialAdFrequency": 300,
     "noOfMinsForAdFree": 5,
     "queueBasedBannerAd": true,
