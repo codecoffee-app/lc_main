@@ -51,7 +51,7 @@
     "editorialAdFrequency": 300,
     "noOfMinsForAdFree": 5,
     "queueBasedBannerAd": true,
-    "queueAdFrequency": 5000,
+    "queueAdFrequency": 30000,
     "bannerAd": {
         "navigator": true,
         "subpage": true
