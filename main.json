@@ -4,7 +4,7 @@
     "code_editor_url":"https://react-xcode.vercel.app/leetcode/",
     "lc_data": "https://api.zodeverse.com/",
     "deep_link_url": "https://www.zodeverse.com/",
-    "latest_version":57,
+    "latest_version":58,
     "mandatory": true,
     "showContest": false,
     "showNewLogin": false,
@@ -50,7 +50,7 @@
     "aiUrl":"https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash:generateContent?key=",
     "editorialAdFrequency": 300,
     "noOfMinsForAdFree": 5,
-    "queueBasedBannerAd": false,
+    "queueBasedBannerAd": true,
     "queueAdFrequency": 30000,
     "bannerAd": {
         "navigator": true,
