@@ -217,6 +217,7 @@
         "systemdesign": false,
         "react": true,
         "leetcode": true,
+        "goals": true,
         "mongo": false,
         "css": false,
         "javascript": false
