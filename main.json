@@ -5,7 +5,7 @@
     "lc_data": "https://api.zodeverse.com/",
     "deep_link_url": "https://www.zodeverse.com/",
     "latest_version":63,
-    "iconName": "MainActivity",
+    "iconName": "MainActivityHoli",
     "mandatory": true,
     "showContest": false,
     "showNewLogin": false,
