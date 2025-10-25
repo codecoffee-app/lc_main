@@ -23,6 +23,7 @@
       "title": "Yearly"
     }
   },
+  "recommended_plan": "six-months",
   "latest_version": 63,
   "iconName": "MainActivity",
   "mandatory": true,
