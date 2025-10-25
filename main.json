@@ -1,227 +1,246 @@
 {
-    "github_url":"https://leetcode-ally.github.io/leetcode-ally-github",
-    "vercel_api":"https://c-leetcode-ally-be.vercel.app",
-    "code_editor_url":"https://react-xcode.vercel.app/leetcode/",
-    "lc_data": "https://api.zodeverse.com/",
-    "deep_link_url": "https://www.zodeverse.com/",
-    "comments_sheet": "https://script.google.com/macros/s/AKfycbyrB1rLrefoWsgJO-QIEGMs9UPlGW3kXGByL0bWryXVKfOo0qywjKMxCEqeVJUr4fB2/exec",
-    "latest_version":63,
-    "iconName": "MainActivity",
-    "mandatory": true,
-    "showContest": false,
-    "showNewLogin": false,
-    "new_projects_url":"https://leetcode-ally.github.io/projects/newprojects.json",
-    "flag":0,
-    "feedback":{
-        "msg":"",
-        "url":"",
-        "options":[],
-        "url_text":""
+  "github_url": "https://leetcode-ally.github.io/leetcode-ally-github",
+  "vercel_api": "https://c-leetcode-ally-be.vercel.app",
+  "code_editor_url": "https://react-xcode.vercel.app/leetcode/",
+  "lc_data": "https://api.zodeverse.com/",
+  "deep_link_url": "https://www.zodeverse.com/",
+  "comments_sheet": "https://script.google.com/macros/s/AKfycbyrB1rLrefoWsgJO-QIEGMs9UPlGW3kXGByL0bWryXVKfOo0qywjKMxCEqeVJUr4fB2/exec",
+  "plan_details": {
+    "monthly": {
+      "months": 1,
+      "title": "1 Month"
     },
-    "feedback_alert": {
-        "show": true,
-        "heading": "Give Feedback",
-        "subheading": "Share your thoughts about the app so we can improve and better meet your needs",
-        "btnText": "Tap to participate",
-        "img": "https://codecoffee-app.github.io/lc_main/feedback.png",
-        "url": "https://docs.google.com/forms/d/e/1FAIpQLScmGw3T2ePAk85Iyfum97BomVjdm3dRKSdVmWjetdm6Dbq16A/viewform?usp=sharing&ouid=100142919527289744340"
+    "three-months": {
+      "months": 3,
+      "title": "3 Months"
     },
-    "msg":"",
-    "download_url":"",
-    "options":[],
-    "app_url":"https://play.google.com/store/apps/details?id=com.leetos",
-    "release_features":[],
-    "gmail":"leetcode.ally@gmail.com",
-    "notification":[{
-        "time":"22:00:00",
-        "title":"👨‍💻 Hey Leetcoder!",
-        "body":"Did you solve today's problem?⌚"
+    "six-months": {
+      "months": 6,
+      "title": "6 Months"
     },
-        {
-        "time":"23:00:00",
-        "title":"🔁 Keep It Fresh!",
-        "body":"Replenish your skills by revising the Revise Section. Consistent practice is the key to mastery! 💪"
+    "yearly": {
+      "months": 12,
+      "title": "Yearly"
     }
-    ],
-    "adCountRange":{
-        "start": 2,
-        "end": 2
-    },
-    "adFrequency": 300,
-    "aiAdFrequency":300,
-    "aiUrl":"https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent?key=",
-    "editorialAdFrequency": 300,
-    "noOfMinsForAdFree": 5,
-    "queueBasedBannerAd": true,
-    "queueAdFrequency": 30000,
-    "bannerAd": {
-        "navigator": true,
-        "subpage": true
-    },
-    "adInfo": {
-        "banner": {
-            "navigator": false,
-            "subpage": false,
-            "queueBasedBannerAd": true,
-            "queueAdFrequency": 30000,
-            "adUnit":"20_00000350000010000003700000250000013000000300000270000018000000900000290000031000001400000190000005000000200000230000001000001100000000000016000002000000120000015000002100000070000017000002400000340000032000003600000330000006000000400000080000030000002600000220000028_0009100075000910007500083001200007400095001270008200086000890009500137000670007500118000830011900084000750008800089000750013900089000790008700081000910008100071001360014500080000810007200081"
-        },
-        "interstitial": {
-            "adFrequency": 300,
-            "aiAdFrequency":300,
-            "adUnit": "14_00000060000037000001000000350000021000001700000160000015000001100000140000031000001300000040000036000001800000120000028000002300000250000019000003300000010000032000002400000090000027000000300000340000007000002200000050000026000000000000200000008000002900000020000030_0006500078000690007100075000690006400069000770006900073000770013000070000750008200064000750007500075000750011200069000790012100074001140007500133000720013100081001130007500139000670006100064"
-        },
-        "rewarded": {
-            "show": true,
-            "addFreeMins": 5,
-            "adUnit": "25_00000060000012000000900000070000034000003600000330000010000000300000290000020000003000000050000002000001700000320000014000002100000250000023000000000000270000004000001100000010000037000000800000160000013000001800000350000031000002400000190000026000002800000150000022_0007600093001320014400083000840008300080001250008200100000800014200072000940008700094001000007500100001240007400141000880012300086001500008900088001000008700083001040010000081000780009400097"
-        },
-        "native": {
-            "show": true,
-            "adUnit": "18_00000200000025000003600000290000037000002100000280000024000003200000040000014000003400000100000033000001700000270000013000001800000050000035000000300000190000001000001500000080000007000000600000260000012000002200000310000030000000900000000000011000001600000020000023_0007500075000680007800069000750007700079000890013400087000910007300082000870007400081000750013500084001180007500116000870014300137000690008100086000720008100085001250011700081000820006500075"
-        }
-    },
-    "bannerAdUnit":"20_00000350000010000003700000250000013000000300000270000018000000900000290000031000001400000190000005000000200000230000001000001100000000000016000002000000120000015000002100000070000017000002400000340000032000003600000330000006000000400000080000030000002600000220000028_0009100075000910007500083001200007400095001270008200086000890009500137000670007500118000830011900084000750008800089000750013900089000790008700081000910008100071001360014500080000810007200081",
-    "callouts" : {
-        "show": false,
-        "heading": "What's new?",
-        "list": [
-            "You can read editorials of all problems",
-            "Go through cards section to explore different varities of questions",
-            "Read interview experirences to gain insights"
-        ]
-    },
-    "downTimeAlert":{
-        "showDownTimeAlert":false,
-        "heading":"Notice",
-        "subheading":"App is down for maintenance. We apologize for any inconvenience. Your understanding is appreciated.",
-        "showMailBox": true,
-        "mailBox":{
-            "heading":"Please report to us",
-            "subject":"App is down for maintenance",
-            "body":"",
-            "email":"leetcode.ally@gmail.com",
-            "inputBoxPlaceholder":"Write your message here..",
-            "buttonText":"Send"
-        }
-    },
-    "apiFailAlert":{
-        "heading":"Notice",
-        "subheading":"There is some technical issue. We are looking into it. Apologies for the inconvenience. Please keep in touch.",
-        "showMailBox": true,
-        "mailBox":{
-            "heading":"Report to us",
-            "subject":"App is unable to fetch data",
-            "body":"",
-            "email":"leetcode.ally@gmail.com",
-            "inputBoxPlaceholder":"Write your message here..",
-            "buttonText":"Send"
-        },
-        "showLimitedFeaturesBtn": true,
-        "limitedFeaturesText":"Continue with Limited Features"
-    },
-    "questionNotFoundAlert":{
-        "heading":"Notice",
-        "subheading":"This question is not available as of now. Apologies for the inconvenience. Please keep in touch.",
-        "showMailBox": true,
-        "mailBox":{
-            "heading":"Report to us",
-            "subject":"Question not available",
-            "body":"",
-            "email":"leetcode.ally@gmail.com",
-            "inputBoxPlaceholder":"Write your message here..",
-            "buttonText":"Send"
-        },
-        "showLimitedFeaturesBtn": false,
-        "limitedFeaturesText":"Continue with Limited Features"
-    },
-    "contestNotFoundAlert":{
-        "heading":"Notice",
-        "subheading":"This contest's questions are not available as of now. Apologies for the inconvenience. Please keep in touch.",
-        "showMailBox": true,
-        "mailBox":{
-            "heading":"Report to us",
-            "subject":"Contest Questions not available",
-            "body":"",
-            "email":"leetcode.ally@gmail.com",
-            "inputBoxPlaceholder":"Write your message here..",
-            "buttonText":"Send"
-        },
-        "showLimitedFeaturesBtn": false,
-        "limitedFeaturesText":"Continue with Limited Features"
-    },
-    "carousel":{
-        "showCarousel":false,
-        "banners":[]
-    },
-    "verticalCarousel":{
-        "showCarousel":true,
-        "banners":[
-            {
-                "id": 1,
-                "link": "https://docs.google.com/forms/d/e/1FAIpQLScmGw3T2ePAk85Iyfum97BomVjdm3dRKSdVmWjetdm6Dbq16A/viewform?usp=header",
-                "url": "https://codecoffee-app.github.io/lc_main/unlimited-feedback-form.png"
-            }
-        ]
-    },
-    "aiCarousel":{
-        "showAiCarousel":false,
-        "AiBanners":[
-            {
-            "link": "https://picsum.photos/200/400",
-            "url": "https://leetcode-ally.github.io/main-without-sheet/ai.webp",
-            "id": 1,
-            "flag": 1
-          }
-        ]
-    },
-    "alertNotifications": {
-        "showAlert": false,
-        "alerts": [
+  },
+  "latest_version": 63,
+  "iconName": "MainActivity",
+  "mandatory": true,
+  "showContest": false,
+  "showNewLogin": false,
+  "new_projects_url": "https://leetcode-ally.github.io/projects/newprojects.json",
+  "flag": 0,
+  "feedback": {
+    "msg": "",
+    "url": "",
+    "options": [],
+    "url_text": ""
+  },
+  "feedback_alert": {
+    "show": true,
+    "heading": "Give Feedback",
+    "subheading": "Share your thoughts about the app so we can improve and better meet your needs",
+    "btnText": "Tap to participate",
+    "img": "https://codecoffee-app.github.io/lc_main/feedback.png",
+    "url": "https://docs.google.com/forms/d/e/1FAIpQLScmGw3T2ePAk85Iyfum97BomVjdm3dRKSdVmWjetdm6Dbq16A/viewform?usp=sharing&ouid=100142919527289744340"
+  },
+  "msg": "",
+  "download_url": "",
+  "options": [],
+  "app_url": "https://play.google.com/store/apps/details?id=com.leetos",
+  "release_features": [],
+  "gmail": "leetcode.ally@gmail.com",
+  "notification": [
     {
-      "button": {
-        "text": "Check it out  ➜"
-      },
-      "canClose": true,
-      "display": true,
-      "message": "Video solution for POTD is available now",
-      "priority": 100,
-      "styles": {
-        "primaryColor": "#FFA133",
-        "secondaryColor": "#FFA13320",
-        "ternaryColor": "#FFA13360"
-      },
-      "type": "potd-video"
-    }
-  ]
+      "time": "22:00:00",
+      "title": "👨‍💻 Hey Leetcoder!",
+      "body": "Did you solve today's problem?⌚"
     },
-    "rateAlert": {
+    {
+      "time": "23:00:00",
+      "title": "🔁 Keep It Fresh!",
+      "body": "Replenish your skills by revising the Revise Section. Consistent practice is the key to mastery! 💪"
+    }
+  ],
+  "adCountRange": {
+    "start": 2,
+    "end": 2
+  },
+  "adFrequency": 300,
+  "aiAdFrequency": 300,
+  "aiUrl": "https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent?key=",
+  "editorialAdFrequency": 300,
+  "noOfMinsForAdFree": 5,
+  "queueBasedBannerAd": true,
+  "queueAdFrequency": 30000,
+  "bannerAd": {
+    "navigator": true,
+    "subpage": true
+  },
+  "adInfo": {
+    "banner": {
+      "navigator": false,
+      "subpage": false,
+      "queueBasedBannerAd": true,
+      "queueAdFrequency": 30000,
+      "adUnit": "20_00000350000010000003700000250000013000000300000270000018000000900000290000031000001400000190000005000000200000230000001000001100000000000016000002000000120000015000002100000070000017000002400000340000032000003600000330000006000000400000080000030000002600000220000028_0009100075000910007500083001200007400095001270008200086000890009500137000670007500118000830011900084000750008800089000750013900089000790008700081000910008100071001360014500080000810007200081"
+    },
+    "interstitial": {
+      "adFrequency": 300,
+      "aiAdFrequency": 300,
+      "adUnit": "14_00000060000037000001000000350000021000001700000160000015000001100000140000031000001300000040000036000001800000120000028000002300000250000019000003300000010000032000002400000090000027000000300000340000007000002200000050000026000000000000200000008000002900000020000030_0006500078000690007100075000690006400069000770006900073000770013000070000750008200064000750007500075000750011200069000790012100074001140007500133000720013100081001130007500139000670006100064"
+    },
+    "rewarded": {
+      "show": true,
+      "addFreeMins": 5,
+      "adUnit": "25_00000060000012000000900000070000034000003600000330000010000000300000290000020000003000000050000002000001700000320000014000002100000250000023000000000000270000004000001100000010000037000000800000160000013000001800000350000031000002400000190000026000002800000150000022_0007600093001320014400083000840008300080001250008200100000800014200072000940008700094001000007500100001240007400141000880012300086001500008900088001000008700083001040010000081000780009400097"
+    },
+    "native": {
+      "show": true,
+      "adUnit": "18_00000200000025000003600000290000037000002100000280000024000003200000040000014000003400000100000033000001700000270000013000001800000050000035000000300000190000001000001500000080000007000000600000260000012000002200000310000030000000900000000000011000001600000020000023_0007500075000680007800069000750007700079000890013400087000910007300082000870007400081000750013500084001180007500116000870014300137000690008100086000720008100085001250011700081000820006500075"
+    }
+  },
+  "bannerAdUnit": "20_00000350000010000003700000250000013000000300000270000018000000900000290000031000001400000190000005000000200000230000001000001100000000000016000002000000120000015000002100000070000017000002400000340000032000003600000330000006000000400000080000030000002600000220000028_0009100075000910007500083001200007400095001270008200086000890009500137000670007500118000830011900084000750008800089000750013900089000790008700081000910008100071001360014500080000810007200081",
+  "callouts": {
+    "show": false,
+    "heading": "What's new?",
+    "list": [
+      "You can read editorials of all problems",
+      "Go through cards section to explore different varities of questions",
+      "Read interview experirences to gain insights"
+    ]
+  },
+  "downTimeAlert": {
+    "showDownTimeAlert": false,
+    "heading": "Notice",
+    "subheading": "App is down for maintenance. We apologize for any inconvenience. Your understanding is appreciated.",
+    "showMailBox": true,
+    "mailBox": {
+      "heading": "Please report to us",
+      "subject": "App is down for maintenance",
+      "body": "",
+      "email": "leetcode.ally@gmail.com",
+      "inputBoxPlaceholder": "Write your message here..",
+      "buttonText": "Send"
+    }
+  },
+  "apiFailAlert": {
+    "heading": "Notice",
+    "subheading": "There is some technical issue. We are looking into it. Apologies for the inconvenience. Please keep in touch.",
+    "showMailBox": true,
+    "mailBox": {
+      "heading": "Report to us",
+      "subject": "App is unable to fetch data",
+      "body": "",
+      "email": "leetcode.ally@gmail.com",
+      "inputBoxPlaceholder": "Write your message here..",
+      "buttonText": "Send"
+    },
+    "showLimitedFeaturesBtn": true,
+    "limitedFeaturesText": "Continue with Limited Features"
+  },
+  "questionNotFoundAlert": {
+    "heading": "Notice",
+    "subheading": "This question is not available as of now. Apologies for the inconvenience. Please keep in touch.",
+    "showMailBox": true,
+    "mailBox": {
+      "heading": "Report to us",
+      "subject": "Question not available",
+      "body": "",
+      "email": "leetcode.ally@gmail.com",
+      "inputBoxPlaceholder": "Write your message here..",
+      "buttonText": "Send"
+    },
+    "showLimitedFeaturesBtn": false,
+    "limitedFeaturesText": "Continue with Limited Features"
+  },
+  "contestNotFoundAlert": {
+    "heading": "Notice",
+    "subheading": "This contest's questions are not available as of now. Apologies for the inconvenience. Please keep in touch.",
+    "showMailBox": true,
+    "mailBox": {
+      "heading": "Report to us",
+      "subject": "Contest Questions not available",
+      "body": "",
+      "email": "leetcode.ally@gmail.com",
+      "inputBoxPlaceholder": "Write your message here..",
+      "buttonText": "Send"
+    },
+    "showLimitedFeaturesBtn": false,
+    "limitedFeaturesText": "Continue with Limited Features"
+  },
+  "carousel": {
+    "showCarousel": false,
+    "banners": []
+  },
+  "verticalCarousel": {
+    "showCarousel": true,
+    "banners": [
+      {
+        "id": 1,
+        "link": "https://docs.google.com/forms/d/e/1FAIpQLScmGw3T2ePAk85Iyfum97BomVjdm3dRKSdVmWjetdm6Dbq16A/viewform?usp=header",
+        "url": "https://codecoffee-app.github.io/lc_main/unlimited-feedback-form.png"
+      }
+    ]
+  },
+  "aiCarousel": {
+    "showAiCarousel": false,
+    "AiBanners": [
+      {
+        "link": "https://picsum.photos/200/400",
+        "url": "https://leetcode-ally.github.io/main-without-sheet/ai.webp",
+        "id": 1,
+        "flag": 1
+      }
+    ]
+  },
+  "alertNotifications": {
+    "showAlert": false,
+    "alerts": [
+      {
+        "button": {
+          "text": "Check it out  ➜"
+        },
+        "canClose": true,
+        "display": true,
+        "message": "Video solution for POTD is available now",
+        "priority": 100,
+        "styles": {
+          "primaryColor": "#FFA133",
+          "secondaryColor": "#FFA13320",
+          "ternaryColor": "#FFA13360"
+        },
+        "type": "potd-video"
+      }
+    ]
+  },
+  "rateAlert": {
     "heading": "Rate Us",
     "subheading": "Your rating empowers us to create a better app tailored to your needs. Share your thoughts now and be a part of the journey!",
     "showMailBox": false,
     "mailBox": {}
   },
-    "updateAlert": {
-        "heading": "Update",
-        "subheading": "We have a new update for you. Please update the app to get the latest features and bug fixes.",
-        "showMailBox": false,
-        "mailBox": {},
-        "showList": false,
-        "list": [],
-        "showUrl": true,
-        "urlData": {
-          "url": "https://play.google.com/store/apps/details?id=com.leetos",
-          "text": "Update now"
-        }
-      },
-    "verticals": {
-        "dsa": true,
-        "systemdesign": false,
-        "react": true,
-        "leetcode": true,
-        "goals": true,
-        "mongo": false,
-        "css": false,
-        "javascript": false
+  "updateAlert": {
+    "heading": "Update",
+    "subheading": "We have a new update for you. Please update the app to get the latest features and bug fixes.",
+    "showMailBox": false,
+    "mailBox": {},
+    "showList": false,
+    "list": [],
+    "showUrl": true,
+    "urlData": {
+      "url": "https://play.google.com/store/apps/details?id=com.leetos",
+      "text": "Update now"
     }
+  },
+  "verticals": {
+    "dsa": true,
+    "systemdesign": false,
+    "react": true,
+    "leetcode": true,
+    "goals": true,
+    "mongo": false,
+    "css": false,
+    "javascript": false
+  }
 }
