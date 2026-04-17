@@ -24,7 +24,7 @@
     }
   },
   "recommended_plan": "six-months",
-  "latest_version": 128,
+  "latest_version": 130,
   "iconName": "MainActivity",
   "mandatory": true,
   "showContest": false,
