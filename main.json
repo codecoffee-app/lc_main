@@ -5,8 +5,6 @@
   "lc_data": "https://api.zodeverse.com/",
   "deep_link_url": "https://www.zodeverse.com/",
   "comments_sheet": "https://script.google.com/macros/s/AKfycbyL4eSFioNaFd2Lb6DonkMUEc1AiB0jTJpXtkhtQ386bNj0GpL7fa7NYYM_T7UcyoQ42w/exec",
-  "usernames_sheet": "https://script.google.com/macros/s/AKfycbwM91CFSsH-oKCtt8-HlJx-TDHfzSAOgs4eTdh_zkPgMlY_3EcgRe8_pFiR3kIYlA_Wwg/exec",
-  "usernames_json": "usernames.txt",
   "plan_details": {
     "monthly": {
       "months": 1,
