@@ -4,6 +4,7 @@
   "code_editor_url": "https://react-xcode.vercel.app/leetcode/",
   "lc_data": "https://api.zodeverse.com/",
   "lc_sub": "https://sub.zodeverse.com/",
+  "desktop": "https://code.zodeverse.com/",
   "users": "users/email/data.json",
   "problems_config_ac": "problems/accepted/slug/config.json",
   "problems_config_err": "problems/errors/slug/config.json",
