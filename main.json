@@ -13,8 +13,8 @@
   "problems_sub_ac": "problems/accepted/slug/data/",
   "problems_sub_err": "problems/errors/slug/data/",
   "submission_sheets": [
-    "https://script.google.com/macros/s/AKfycbzORo1sF6L5WKcFz-KK2vqlROLtLMfebOV2ubro240wl_aOnO6kUsbcNHS-Dl7BUPX4/exec",
-    "https://script.google.com/macros/s/AKfycbzuugK5RlEBx7odR6_pM8aWHnzSuBQzxprH6Sew-N-cf5cQg_9oj_exD2gxeNNPJE6_OQ/exec"
+    "https://script.google.com/macros/s/AKfycby8RDIAj3zGSrTH02CvE8KFqeSuCmBOLBxwORTT6DcGBdgJBTVB1m12Sq1FwE_iYdxD/exec",
+    "https://script.google.com/macros/s/AKfycbxTr0pOEw2VW-q7_y89Wkwvn9EFwa3CZhtrQka3MpMPgPhBP9yTVJYJru4h7kTqg8PEjQ/exec"
   ],
   "hack_report_url": "https://script.google.com/macros/s/AKfycbwZow7K_t05dOVcfW9Gxkt9vV2x4PVyD6X1gWPWJTCIAjXBnXmUTKn8rM5shA9JfBC8hQ/exec",
   "app_name": "Zeetcode Ally",
