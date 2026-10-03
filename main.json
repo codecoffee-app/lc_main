@@ -17,6 +17,12 @@
     "https://script.google.com/macros/s/AKfycbwG9cGV_pBQN5sPAunTUCDzdh9ZVhDgou3sLgdwPaw6DwpkCciPXwGql86SSLKLBSI/exec",
     "https://script.google.com/macros/s/AKfycbw8XaNLAF9QE3s2u9y8_BuyWXR6m5BVd5v06VKZ9Bg2zbwQH9VO5eJ_Su1qwG3OBWbVHg/exec"
   ],
+  "background_images": [
+    "https://codecoffee-app.github.io/lc_main/background/1.png",
+    "https://codecoffee-app.github.io/lc_main/background/2.png",
+    "https://codecoffee-app.github.io/lc_main/background/3.png",
+    "https://codecoffee-app.github.io/lc_main/background/4.png"
+  ],
   "hack_report_url": "https://script.google.com/macros/s/AKfycbwZow7K_t05dOVcfW9Gxkt9vV2x4PVyD6X1gWPWJTCIAjXBnXmUTKn8rM5shA9JfBC8hQ/exec",
   "app_name": "Zeetcode Ally",
   "deep_link_url": "https://www.zodeverse.com/",
